@@ -12,8 +12,8 @@ if (sprite_index == spr_pizzaportalend)
         switch (room)
         {
 			case newtutorial_10:
-                rm = newtutorial_10;
-                door = "H";
+                rm = newtutorial_1;
+                door = "M";
                 break;
             case entry_1b:
                 rm = entry_10;
