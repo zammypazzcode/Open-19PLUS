@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_playerN_knightdowntrust",
   "bboxMode":0,
   "bbox_bottom":95,
@@ -12,9 +12,9 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"4a00c236-c0c4-485d-82a5-7636a289effa","name":"4a00c236-c0c4-485d-82a5-7636a289effa","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"9b2dd955-0cf3-4bc4-ac0e-09e81a3eda9a","name":"9b2dd955-0cf3-4bc4-ac0e-09e81a3eda9a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"47ee2a6a-1d90-4cb5-ba81-6a1d45c241eb","name":"47ee2a6a-1d90-4cb5-ba81-6a1d45c241eb","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"4a00c236-c0c4-485d-82a5-7636a289effa","name":"4a00c236-c0c4-485d-82a5-7636a289effa","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"9b2dd955-0cf3-4bc4-ac0e-09e81a3eda9a","name":"9b2dd955-0cf3-4bc4-ac0e-09e81a3eda9a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"47ee2a6a-1d90-4cb5-ba81-6a1d45c241eb","name":"47ee2a6a-1d90-4cb5-ba81-6a1d45c241eb","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -34,7 +34,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GMSequence":"",
+    "$GMSequence":"v1",
     "%Name":"spr_playerN_knightdowntrust",
     "autoRecord":true,
     "backdropHeight":768,
@@ -70,15 +70,9 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":-1,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4a00c236-c0c4-485d-82a5-7636a289effa","path":"sprites/spr_playerN_knightdowntrust/spr_playerN_knightdowntrust.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"e1d78dfe-d23f-4cd1-ba15-3bc29a9436e9","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9b2dd955-0cf3-4bc4-ac0e-09e81a3eda9a","path":"sprites/spr_playerN_knightdowntrust/spr_playerN_knightdowntrust.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"3d0e9be1-97f4-4c80-a53a-7f7bd44af1ac","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"47ee2a6a-1d90-4cb5-ba81-6a1d45c241eb","path":"sprites/spr_playerN_knightdowntrust/spr_playerN_knightdowntrust.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"db0847ca-da56-4f8e-b809-53ba72c1d0bf","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"4a00c236-c0c4-485d-82a5-7636a289effa","path":"sprites/spr_playerN_knightdowntrust/spr_playerN_knightdowntrust.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"e1d78dfe-d23f-4cd1-ba15-3bc29a9436e9","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"9b2dd955-0cf3-4bc4-ac0e-09e81a3eda9a","path":"sprites/spr_playerN_knightdowntrust/spr_playerN_knightdowntrust.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"3d0e9be1-97f4-4c80-a53a-7f7bd44af1ac","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"47ee2a6a-1d90-4cb5-ba81-6a1d45c241eb","path":"sprites/spr_playerN_knightdowntrust/spr_playerN_knightdowntrust.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"db0847ca-da56-4f8e-b809-53ba72c1d0bf","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

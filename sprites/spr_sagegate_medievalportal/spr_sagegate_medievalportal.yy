@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_sagegate_medievalportal",
   "bboxMode":0,
   "bbox_bottom":255,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"253cc356-2459-4620-abff-2d98fb8840fc","name":"253cc356-2459-4620-abff-2d98fb8840fc","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"79c90e98-5fc2-431c-910c-40af38477e7e","name":"79c90e98-5fc2-431c-910c-40af38477e7e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"4f095476-b2f0-4bb9-b18d-6805a457dd23","name":"4f095476-b2f0-4bb9-b18d-6805a457dd23","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"d13e78aa-413e-4fcb-a7e7-e886e4475d38","name":"d13e78aa-413e-4fcb-a7e7-e886e4475d38","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"a8bdb375-befd-4aab-b9f9-0d8dd303ca96","name":"a8bdb375-befd-4aab-b9f9-0d8dd303ca96","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"29e05b75-43bd-4460-b1a3-e5893c43d8d9","name":"29e05b75-43bd-4460-b1a3-e5893c43d8d9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"1bc741aa-6188-4466-95de-b9e5a740c837","name":"1bc741aa-6188-4466-95de-b9e5a740c837","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"af4eb790-ad4a-4ac3-b605-34e7d899f535","name":"af4eb790-ad4a-4ac3-b605-34e7d899f535","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"253cc356-2459-4620-abff-2d98fb8840fc","name":"253cc356-2459-4620-abff-2d98fb8840fc","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"79c90e98-5fc2-431c-910c-40af38477e7e","name":"79c90e98-5fc2-431c-910c-40af38477e7e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"4f095476-b2f0-4bb9-b18d-6805a457dd23","name":"4f095476-b2f0-4bb9-b18d-6805a457dd23","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"d13e78aa-413e-4fcb-a7e7-e886e4475d38","name":"d13e78aa-413e-4fcb-a7e7-e886e4475d38","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"a8bdb375-befd-4aab-b9f9-0d8dd303ca96","name":"a8bdb375-befd-4aab-b9f9-0d8dd303ca96","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"29e05b75-43bd-4460-b1a3-e5893c43d8d9","name":"29e05b75-43bd-4460-b1a3-e5893c43d8d9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"1bc741aa-6188-4466-95de-b9e5a740c837","name":"1bc741aa-6188-4466-95de-b9e5a740c837","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"af4eb790-ad4a-4ac3-b605-34e7d899f535","name":"af4eb790-ad4a-4ac3-b605-34e7d899f535","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -40,13 +40,7 @@
     "resourceType":"GMNineSliceData",
     "resourceVersion":"2.0",
     "right":0,
-    "tileMode":[
-      0,
-      0,
-      0,
-      0,
-      0,
-    ],
+    "tileMode":[0,0,0,0,0,],
     "top":0,
   },
   "origin":4,
@@ -58,7 +52,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GMSequence":"",
+    "$GMSequence":"v1",
     "%Name":"spr_sagegate_medievalportal",
     "autoRecord":true,
     "backdropHeight":768,
@@ -94,30 +88,14 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":-1,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"253cc356-2459-4620-abff-2d98fb8840fc","path":"sprites/spr_sagegate_medievalportal/spr_sagegate_medievalportal.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"250053e0-939d-46e4-9c03-648254f3b2a2","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"79c90e98-5fc2-431c-910c-40af38477e7e","path":"sprites/spr_sagegate_medievalportal/spr_sagegate_medievalportal.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"6ba92ea8-dd89-4b33-90c8-22df1017ed61","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4f095476-b2f0-4bb9-b18d-6805a457dd23","path":"sprites/spr_sagegate_medievalportal/spr_sagegate_medievalportal.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"cac25cf4-5d9b-41b3-beb2-2d691cc5a431","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d13e78aa-413e-4fcb-a7e7-e886e4475d38","path":"sprites/spr_sagegate_medievalportal/spr_sagegate_medievalportal.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"e547e434-1a80-4c60-b5b9-6277c296dce9","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a8bdb375-befd-4aab-b9f9-0d8dd303ca96","path":"sprites/spr_sagegate_medievalportal/spr_sagegate_medievalportal.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"1385db37-37f7-4ca4-9398-245d1e03b41d","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"29e05b75-43bd-4460-b1a3-e5893c43d8d9","path":"sprites/spr_sagegate_medievalportal/spr_sagegate_medievalportal.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"b90bc984-0b01-443e-af0d-34cd42bd004e","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1bc741aa-6188-4466-95de-b9e5a740c837","path":"sprites/spr_sagegate_medievalportal/spr_sagegate_medievalportal.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"dce99f65-bcd5-44f8-902d-4ff372dc18a3","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"af4eb790-ad4a-4ac3-b605-34e7d899f535","path":"sprites/spr_sagegate_medievalportal/spr_sagegate_medievalportal.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"a3f4a3e8-f73d-4a14-a89c-a8916ba010f6","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"253cc356-2459-4620-abff-2d98fb8840fc","path":"sprites/spr_sagegate_medievalportal/spr_sagegate_medievalportal.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"250053e0-939d-46e4-9c03-648254f3b2a2","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"79c90e98-5fc2-431c-910c-40af38477e7e","path":"sprites/spr_sagegate_medievalportal/spr_sagegate_medievalportal.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"6ba92ea8-dd89-4b33-90c8-22df1017ed61","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"4f095476-b2f0-4bb9-b18d-6805a457dd23","path":"sprites/spr_sagegate_medievalportal/spr_sagegate_medievalportal.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"cac25cf4-5d9b-41b3-beb2-2d691cc5a431","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"d13e78aa-413e-4fcb-a7e7-e886e4475d38","path":"sprites/spr_sagegate_medievalportal/spr_sagegate_medievalportal.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"e547e434-1a80-4c60-b5b9-6277c296dce9","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"a8bdb375-befd-4aab-b9f9-0d8dd303ca96","path":"sprites/spr_sagegate_medievalportal/spr_sagegate_medievalportal.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"1385db37-37f7-4ca4-9398-245d1e03b41d","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"29e05b75-43bd-4460-b1a3-e5893c43d8d9","path":"sprites/spr_sagegate_medievalportal/spr_sagegate_medievalportal.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"b90bc984-0b01-443e-af0d-34cd42bd004e","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"1bc741aa-6188-4466-95de-b9e5a740c837","path":"sprites/spr_sagegate_medievalportal/spr_sagegate_medievalportal.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"dce99f65-bcd5-44f8-902d-4ff372dc18a3","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"af4eb790-ad4a-4ac3-b605-34e7d899f535","path":"sprites/spr_sagegate_medievalportal/spr_sagegate_medievalportal.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"a3f4a3e8-f73d-4a14-a89c-a8916ba010f6","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

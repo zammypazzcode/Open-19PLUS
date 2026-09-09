@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_player_breakdanceslamstart",
   "bboxMode":0,
   "bbox_bottom":124,
@@ -12,13 +12,13 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"f0159937-5a0b-4955-a053-2afe1f984692","name":"f0159937-5a0b-4955-a053-2afe1f984692","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"ef3c39a9-d22b-4357-861f-4837cab56dac","name":"ef3c39a9-d22b-4357-861f-4837cab56dac","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"14d3457f-b05e-45f0-bc05-352278d86ac5","name":"14d3457f-b05e-45f0-bc05-352278d86ac5","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"28ca6a6d-a3a8-4e67-83cc-88e322f47304","name":"28ca6a6d-a3a8-4e67-83cc-88e322f47304","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"a371b868-e849-4595-b6c3-fbe048a3bce2","name":"a371b868-e849-4595-b6c3-fbe048a3bce2","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"b7835c64-7528-4c62-a00d-bfe04a45152d","name":"b7835c64-7528-4c62-a00d-bfe04a45152d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"d792f963-7553-4fec-a515-aa09502884fb","name":"d792f963-7553-4fec-a515-aa09502884fb","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"f0159937-5a0b-4955-a053-2afe1f984692","name":"f0159937-5a0b-4955-a053-2afe1f984692","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"ef3c39a9-d22b-4357-861f-4837cab56dac","name":"ef3c39a9-d22b-4357-861f-4837cab56dac","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"14d3457f-b05e-45f0-bc05-352278d86ac5","name":"14d3457f-b05e-45f0-bc05-352278d86ac5","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"28ca6a6d-a3a8-4e67-83cc-88e322f47304","name":"28ca6a6d-a3a8-4e67-83cc-88e322f47304","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"a371b868-e849-4595-b6c3-fbe048a3bce2","name":"a371b868-e849-4595-b6c3-fbe048a3bce2","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"b7835c64-7528-4c62-a00d-bfe04a45152d","name":"b7835c64-7528-4c62-a00d-bfe04a45152d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"d792f963-7553-4fec-a515-aa09502884fb","name":"d792f963-7553-4fec-a515-aa09502884fb","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -39,13 +39,7 @@
     "resourceType":"GMNineSliceData",
     "resourceVersion":"2.0",
     "right":0,
-    "tileMode":[
-      0,
-      0,
-      0,
-      0,
-      0,
-    ],
+    "tileMode":[0,0,0,0,0,],
     "top":0,
   },
   "origin":4,
@@ -57,7 +51,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GMSequence":"",
+    "$GMSequence":"v1",
     "%Name":"spr_player_breakdanceslamstart",
     "autoRecord":true,
     "backdropHeight":768,
@@ -93,27 +87,13 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":-1,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f0159937-5a0b-4955-a053-2afe1f984692","path":"sprites/spr_player_breakdanceslamstart/spr_player_breakdanceslamstart.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"81713d24-b2df-4a33-bf7a-f7a05150067a","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ef3c39a9-d22b-4357-861f-4837cab56dac","path":"sprites/spr_player_breakdanceslamstart/spr_player_breakdanceslamstart.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"991730bd-913d-4f65-8943-65e14cc00a32","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"14d3457f-b05e-45f0-bc05-352278d86ac5","path":"sprites/spr_player_breakdanceslamstart/spr_player_breakdanceslamstart.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"8fb6f149-83e5-44ba-b716-cb46aadd68be","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"28ca6a6d-a3a8-4e67-83cc-88e322f47304","path":"sprites/spr_player_breakdanceslamstart/spr_player_breakdanceslamstart.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"fb3ffe7f-c203-4c93-93d1-720e636447b1","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a371b868-e849-4595-b6c3-fbe048a3bce2","path":"sprites/spr_player_breakdanceslamstart/spr_player_breakdanceslamstart.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"763831d4-0b98-4e3a-9c0c-bc2bd01513e1","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b7835c64-7528-4c62-a00d-bfe04a45152d","path":"sprites/spr_player_breakdanceslamstart/spr_player_breakdanceslamstart.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"b69711aa-09b7-4144-89c4-37167ba1bce5","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d792f963-7553-4fec-a515-aa09502884fb","path":"sprites/spr_player_breakdanceslamstart/spr_player_breakdanceslamstart.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"65864de5-b3d1-4817-a3e5-fa24b4d69962","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"f0159937-5a0b-4955-a053-2afe1f984692","path":"sprites/spr_player_breakdanceslamstart/spr_player_breakdanceslamstart.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"81713d24-b2df-4a33-bf7a-f7a05150067a","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"ef3c39a9-d22b-4357-861f-4837cab56dac","path":"sprites/spr_player_breakdanceslamstart/spr_player_breakdanceslamstart.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"991730bd-913d-4f65-8943-65e14cc00a32","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"14d3457f-b05e-45f0-bc05-352278d86ac5","path":"sprites/spr_player_breakdanceslamstart/spr_player_breakdanceslamstart.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"8fb6f149-83e5-44ba-b716-cb46aadd68be","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"28ca6a6d-a3a8-4e67-83cc-88e322f47304","path":"sprites/spr_player_breakdanceslamstart/spr_player_breakdanceslamstart.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"fb3ffe7f-c203-4c93-93d1-720e636447b1","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"a371b868-e849-4595-b6c3-fbe048a3bce2","path":"sprites/spr_player_breakdanceslamstart/spr_player_breakdanceslamstart.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"763831d4-0b98-4e3a-9c0c-bc2bd01513e1","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"b7835c64-7528-4c62-a00d-bfe04a45152d","path":"sprites/spr_player_breakdanceslamstart/spr_player_breakdanceslamstart.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"b69711aa-09b7-4144-89c4-37167ba1bce5","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"d792f963-7553-4fec-a515-aa09502884fb","path":"sprites/spr_player_breakdanceslamstart/spr_player_breakdanceslamstart.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"65864de5-b3d1-4817-a3e5-fa24b4d69962","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

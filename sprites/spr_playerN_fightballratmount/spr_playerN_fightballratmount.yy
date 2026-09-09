@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_playerN_fightballratmount",
   "bboxMode":0,
   "bbox_bottom":140,
@@ -12,10 +12,10 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"e16bf680-c34b-4cba-a5bb-c57e57fdb577","name":"e16bf680-c34b-4cba-a5bb-c57e57fdb577","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"8f7e7e57-c942-45b9-9ce3-6794d8f77819","name":"8f7e7e57-c942-45b9-9ce3-6794d8f77819","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"2dabc256-415c-44f4-894d-cdb0e436179d","name":"2dabc256-415c-44f4-894d-cdb0e436179d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"ff999cc1-5203-45fa-a097-340a304c508c","name":"ff999cc1-5203-45fa-a097-340a304c508c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"e16bf680-c34b-4cba-a5bb-c57e57fdb577","name":"e16bf680-c34b-4cba-a5bb-c57e57fdb577","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"8f7e7e57-c942-45b9-9ce3-6794d8f77819","name":"8f7e7e57-c942-45b9-9ce3-6794d8f77819","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"2dabc256-415c-44f4-894d-cdb0e436179d","name":"2dabc256-415c-44f4-894d-cdb0e436179d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"ff999cc1-5203-45fa-a097-340a304c508c","name":"ff999cc1-5203-45fa-a097-340a304c508c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -35,7 +35,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GMSequence":"",
+    "$GMSequence":"v1",
     "%Name":"spr_playerN_fightballratmount",
     "autoRecord":true,
     "backdropHeight":768,
@@ -71,18 +71,10 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":-1,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e16bf680-c34b-4cba-a5bb-c57e57fdb577","path":"sprites/spr_playerN_fightballratmount/spr_playerN_fightballratmount.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"abd9e146-e668-4473-b31a-0c4677cc7926","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8f7e7e57-c942-45b9-9ce3-6794d8f77819","path":"sprites/spr_playerN_fightballratmount/spr_playerN_fightballratmount.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"e77b0cc6-be99-4082-91f1-e2767e8c4bd1","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2dabc256-415c-44f4-894d-cdb0e436179d","path":"sprites/spr_playerN_fightballratmount/spr_playerN_fightballratmount.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"0faaea43-4554-430f-b233-1201f8e89dc9","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ff999cc1-5203-45fa-a097-340a304c508c","path":"sprites/spr_playerN_fightballratmount/spr_playerN_fightballratmount.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"a10d6a7c-2afe-4935-9a8e-c39b0c584a8e","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"e16bf680-c34b-4cba-a5bb-c57e57fdb577","path":"sprites/spr_playerN_fightballratmount/spr_playerN_fightballratmount.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"abd9e146-e668-4473-b31a-0c4677cc7926","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"8f7e7e57-c942-45b9-9ce3-6794d8f77819","path":"sprites/spr_playerN_fightballratmount/spr_playerN_fightballratmount.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"e77b0cc6-be99-4082-91f1-e2767e8c4bd1","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"2dabc256-415c-44f4-894d-cdb0e436179d","path":"sprites/spr_playerN_fightballratmount/spr_playerN_fightballratmount.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"0faaea43-4554-430f-b233-1201f8e89dc9","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"ff999cc1-5203-45fa-a097-340a304c508c","path":"sprites/spr_playerN_fightballratmount/spr_playerN_fightballratmount.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"a10d6a7c-2afe-4935-9a8e-c39b0c584a8e","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

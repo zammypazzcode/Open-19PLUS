@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_pizzaportalentrance",
   "bboxMode":0,
   "bbox_bottom":117,
@@ -12,9 +12,9 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"08fe0586-954c-4641-8605-fbdba9840ec7","name":"08fe0586-954c-4641-8605-fbdba9840ec7","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"3497f6f0-b5d8-412e-ba37-c410a1ed3e55","name":"3497f6f0-b5d8-412e-ba37-c410a1ed3e55","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"8a0c660d-184f-4e68-a0b8-ebfec215e3b2","name":"8a0c660d-184f-4e68-a0b8-ebfec215e3b2","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"08fe0586-954c-4641-8605-fbdba9840ec7","name":"08fe0586-954c-4641-8605-fbdba9840ec7","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"3497f6f0-b5d8-412e-ba37-c410a1ed3e55","name":"3497f6f0-b5d8-412e-ba37-c410a1ed3e55","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"8a0c660d-184f-4e68-a0b8-ebfec215e3b2","name":"8a0c660d-184f-4e68-a0b8-ebfec215e3b2","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -53,7 +53,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GMSequence":"",
+    "$GMSequence":"v1",
     "%Name":"spr_pizzaportalentrance",
     "autoRecord":true,
     "backdropHeight":768,
@@ -88,7 +88,7 @@
     "showBackdropImage":false,
     "timeUnits":1,
     "tracks":[
-      {"$GMSpriteFramesTrack":"","builtinName":-1,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
+      {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"08fe0586-954c-4641-8605-fbdba9840ec7","path":"sprites/spr_pizzaportalentrance/spr_pizzaportalentrance.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"1d0b8199-2c29-42ec-bd3a-023c42915767","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},

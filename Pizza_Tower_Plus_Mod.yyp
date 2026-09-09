@@ -1,8 +1,8 @@
 {
-  "$GMProject":"",
+  "$GMProject":"v1",
   "%Name":"Pizza_Tower_Plus_Mod",
   "AudioGroups":[
-    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
   "configs":{
     "children":[],
@@ -263,6 +263,7 @@
     {"$GMFolder":"","%Name":"Unused","folderPath":"folders/Tilesets/Unused.yy","name":"Unused","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
+  "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[
     {"$GMIncludedFile":"","%Name":"Master.bank","CopyToMask":-1,"filePath":"datafiles/Data/Audio","name":"Master.bank","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"Master.strings.bank","CopyToMask":-1,"filePath":"datafiles/Data/Audio","name":"Master.strings.bank","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
@@ -299,7 +300,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.1.171",
+    "IDEVersion":"2024.14.4.222",
   },
   "name":"Pizza_Tower_Plus_Mod",
   "resources":[

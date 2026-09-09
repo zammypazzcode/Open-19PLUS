@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_halloweencollectibles5",
   "bboxMode":0,
   "bbox_bottom":29,
@@ -12,19 +12,19 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"4d0d4b2c-f3cd-4e48-824d-2710f9107b08","name":"4d0d4b2c-f3cd-4e48-824d-2710f9107b08","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"27fa91e9-72a1-49d9-a925-05e04703294b","name":"27fa91e9-72a1-49d9-a925-05e04703294b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"8a04fc6e-0f5a-415b-9325-ec0aef07cf13","name":"8a04fc6e-0f5a-415b-9325-ec0aef07cf13","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"cbb4cd87-4f74-46d3-9aa5-1ba5db9d398f","name":"cbb4cd87-4f74-46d3-9aa5-1ba5db9d398f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"27050620-4fd4-498d-a1c0-29d0ea2c60f3","name":"27050620-4fd4-498d-a1c0-29d0ea2c60f3","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"107013c7-94d4-4be1-86ce-5c7e070d4bda","name":"107013c7-94d4-4be1-86ce-5c7e070d4bda","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"ee192af3-8f00-4ed7-8441-fe7c3b197ac7","name":"ee192af3-8f00-4ed7-8441-fe7c3b197ac7","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"ae1ee83a-3c26-4c4f-a806-3b0ecd2c620a","name":"ae1ee83a-3c26-4c4f-a806-3b0ecd2c620a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"5a84031a-652f-43b9-b639-297513c27b79","name":"5a84031a-652f-43b9-b639-297513c27b79","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"f0dbe32c-c01a-4cc6-91ed-1e6b82396c40","name":"f0dbe32c-c01a-4cc6-91ed-1e6b82396c40","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"21c3197b-3469-4e98-babd-da319abae6d5","name":"21c3197b-3469-4e98-babd-da319abae6d5","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"642e55bb-5f98-40a4-bb0e-c8ab16015595","name":"642e55bb-5f98-40a4-bb0e-c8ab16015595","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"ba99da23-3b8e-43b5-a275-4c4dff1571bf","name":"ba99da23-3b8e-43b5-a275-4c4dff1571bf","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"4d0d4b2c-f3cd-4e48-824d-2710f9107b08","name":"4d0d4b2c-f3cd-4e48-824d-2710f9107b08","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"27fa91e9-72a1-49d9-a925-05e04703294b","name":"27fa91e9-72a1-49d9-a925-05e04703294b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"8a04fc6e-0f5a-415b-9325-ec0aef07cf13","name":"8a04fc6e-0f5a-415b-9325-ec0aef07cf13","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"cbb4cd87-4f74-46d3-9aa5-1ba5db9d398f","name":"cbb4cd87-4f74-46d3-9aa5-1ba5db9d398f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"27050620-4fd4-498d-a1c0-29d0ea2c60f3","name":"27050620-4fd4-498d-a1c0-29d0ea2c60f3","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"107013c7-94d4-4be1-86ce-5c7e070d4bda","name":"107013c7-94d4-4be1-86ce-5c7e070d4bda","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"ee192af3-8f00-4ed7-8441-fe7c3b197ac7","name":"ee192af3-8f00-4ed7-8441-fe7c3b197ac7","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"ae1ee83a-3c26-4c4f-a806-3b0ecd2c620a","name":"ae1ee83a-3c26-4c4f-a806-3b0ecd2c620a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"5a84031a-652f-43b9-b639-297513c27b79","name":"5a84031a-652f-43b9-b639-297513c27b79","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"f0dbe32c-c01a-4cc6-91ed-1e6b82396c40","name":"f0dbe32c-c01a-4cc6-91ed-1e6b82396c40","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"21c3197b-3469-4e98-babd-da319abae6d5","name":"21c3197b-3469-4e98-babd-da319abae6d5","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"642e55bb-5f98-40a4-bb0e-c8ab16015595","name":"642e55bb-5f98-40a4-bb0e-c8ab16015595","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"ba99da23-3b8e-43b5-a275-4c4dff1571bf","name":"ba99da23-3b8e-43b5-a275-4c4dff1571bf","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -45,13 +45,7 @@
     "resourceType":"GMNineSliceData",
     "resourceVersion":"2.0",
     "right":0,
-    "tileMode":[
-      0,
-      0,
-      0,
-      0,
-      0,
-    ],
+    "tileMode":[0,0,0,0,0,],
     "top":0,
   },
   "origin":0,
@@ -63,7 +57,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GMSequence":"",
+    "$GMSequence":"v1",
     "%Name":"spr_halloweencollectibles5",
     "autoRecord":true,
     "backdropHeight":768,
@@ -99,45 +93,19 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":-1,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4d0d4b2c-f3cd-4e48-824d-2710f9107b08","path":"sprites/spr_halloweencollectibles5/spr_halloweencollectibles5.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"139107a9-aeed-45c4-bdef-e43dc23978f1","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"27fa91e9-72a1-49d9-a925-05e04703294b","path":"sprites/spr_halloweencollectibles5/spr_halloweencollectibles5.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"bb798477-44e0-4904-92e8-647e6c82aa3e","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8a04fc6e-0f5a-415b-9325-ec0aef07cf13","path":"sprites/spr_halloweencollectibles5/spr_halloweencollectibles5.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"1da7d7f3-2059-4cf7-982b-d65a0951db92","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"cbb4cd87-4f74-46d3-9aa5-1ba5db9d398f","path":"sprites/spr_halloweencollectibles5/spr_halloweencollectibles5.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"891f294a-508b-49c4-b232-335161dc31ab","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"27050620-4fd4-498d-a1c0-29d0ea2c60f3","path":"sprites/spr_halloweencollectibles5/spr_halloweencollectibles5.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"c7cb2b79-11ad-48a8-9afd-deedd8b48c4f","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"107013c7-94d4-4be1-86ce-5c7e070d4bda","path":"sprites/spr_halloweencollectibles5/spr_halloweencollectibles5.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"8c6eed8f-cfe7-4bed-8422-911fd395dbda","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ee192af3-8f00-4ed7-8441-fe7c3b197ac7","path":"sprites/spr_halloweencollectibles5/spr_halloweencollectibles5.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"60c9b0a8-7d14-4e86-8f36-5f45b8ec0df5","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ae1ee83a-3c26-4c4f-a806-3b0ecd2c620a","path":"sprites/spr_halloweencollectibles5/spr_halloweencollectibles5.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"9f724717-13f7-4623-b467-dea8e72252e5","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"5a84031a-652f-43b9-b639-297513c27b79","path":"sprites/spr_halloweencollectibles5/spr_halloweencollectibles5.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"b8905f61-a1d1-49f2-bc78-9a23d807e463","IsCreationKey":false,"Key":8.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f0dbe32c-c01a-4cc6-91ed-1e6b82396c40","path":"sprites/spr_halloweencollectibles5/spr_halloweencollectibles5.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"ee1876d0-6f72-4393-9c79-33618b57bc16","IsCreationKey":false,"Key":9.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"21c3197b-3469-4e98-babd-da319abae6d5","path":"sprites/spr_halloweencollectibles5/spr_halloweencollectibles5.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"cb452239-6fee-402c-9e5b-42a3913c7c50","IsCreationKey":false,"Key":10.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"642e55bb-5f98-40a4-bb0e-c8ab16015595","path":"sprites/spr_halloweencollectibles5/spr_halloweencollectibles5.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"e95762ab-1cc5-45e1-a553-37d720c4cf04","IsCreationKey":false,"Key":11.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ba99da23-3b8e-43b5-a275-4c4dff1571bf","path":"sprites/spr_halloweencollectibles5/spr_halloweencollectibles5.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"0fb59a1a-0f91-45cf-bd73-96a8ec17b958","IsCreationKey":false,"Key":12.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"4d0d4b2c-f3cd-4e48-824d-2710f9107b08","path":"sprites/spr_halloweencollectibles5/spr_halloweencollectibles5.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"139107a9-aeed-45c4-bdef-e43dc23978f1","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"27fa91e9-72a1-49d9-a925-05e04703294b","path":"sprites/spr_halloweencollectibles5/spr_halloweencollectibles5.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"bb798477-44e0-4904-92e8-647e6c82aa3e","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"8a04fc6e-0f5a-415b-9325-ec0aef07cf13","path":"sprites/spr_halloweencollectibles5/spr_halloweencollectibles5.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"1da7d7f3-2059-4cf7-982b-d65a0951db92","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"cbb4cd87-4f74-46d3-9aa5-1ba5db9d398f","path":"sprites/spr_halloweencollectibles5/spr_halloweencollectibles5.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"891f294a-508b-49c4-b232-335161dc31ab","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"27050620-4fd4-498d-a1c0-29d0ea2c60f3","path":"sprites/spr_halloweencollectibles5/spr_halloweencollectibles5.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"c7cb2b79-11ad-48a8-9afd-deedd8b48c4f","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"107013c7-94d4-4be1-86ce-5c7e070d4bda","path":"sprites/spr_halloweencollectibles5/spr_halloweencollectibles5.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"8c6eed8f-cfe7-4bed-8422-911fd395dbda","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"ee192af3-8f00-4ed7-8441-fe7c3b197ac7","path":"sprites/spr_halloweencollectibles5/spr_halloweencollectibles5.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"60c9b0a8-7d14-4e86-8f36-5f45b8ec0df5","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"ae1ee83a-3c26-4c4f-a806-3b0ecd2c620a","path":"sprites/spr_halloweencollectibles5/spr_halloweencollectibles5.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"9f724717-13f7-4623-b467-dea8e72252e5","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"5a84031a-652f-43b9-b639-297513c27b79","path":"sprites/spr_halloweencollectibles5/spr_halloweencollectibles5.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"b8905f61-a1d1-49f2-bc78-9a23d807e463","IsCreationKey":false,"Key":8.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"f0dbe32c-c01a-4cc6-91ed-1e6b82396c40","path":"sprites/spr_halloweencollectibles5/spr_halloweencollectibles5.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"ee1876d0-6f72-4393-9c79-33618b57bc16","IsCreationKey":false,"Key":9.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"21c3197b-3469-4e98-babd-da319abae6d5","path":"sprites/spr_halloweencollectibles5/spr_halloweencollectibles5.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"cb452239-6fee-402c-9e5b-42a3913c7c50","IsCreationKey":false,"Key":10.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"642e55bb-5f98-40a4-bb0e-c8ab16015595","path":"sprites/spr_halloweencollectibles5/spr_halloweencollectibles5.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"e95762ab-1cc5-45e1-a553-37d720c4cf04","IsCreationKey":false,"Key":11.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"ba99da23-3b8e-43b5-a275-4c4dff1571bf","path":"sprites/spr_halloweencollectibles5/spr_halloweencollectibles5.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"0fb59a1a-0f91-45cf-bd73-96a8ec17b958","IsCreationKey":false,"Key":12.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

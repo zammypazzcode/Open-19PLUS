@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_infestedwatersewer",
   "bboxMode":0,
   "bbox_bottom":31,
@@ -12,18 +12,18 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"04bbe8e9-7085-4531-af41-30b14206b42f","name":"04bbe8e9-7085-4531-af41-30b14206b42f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"800109c1-1427-412e-8a08-af44635e28e8","name":"800109c1-1427-412e-8a08-af44635e28e8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"cb57947e-5f27-49c3-9e97-0792cd07280f","name":"cb57947e-5f27-49c3-9e97-0792cd07280f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"1bd6e8ea-d58c-4af9-9f97-000968325999","name":"1bd6e8ea-d58c-4af9-9f97-000968325999","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"491410a3-c26e-4360-95b7-a49cc05f17b3","name":"491410a3-c26e-4360-95b7-a49cc05f17b3","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"1206b21f-acf0-4bcf-b56c-71187d8229fa","name":"1206b21f-acf0-4bcf-b56c-71187d8229fa","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"c408371d-1c2d-4d7a-8f94-c33132c215bb","name":"c408371d-1c2d-4d7a-8f94-c33132c215bb","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"ff579451-6169-42f2-a45a-eda9dc359371","name":"ff579451-6169-42f2-a45a-eda9dc359371","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"4596f5ba-a874-4562-a92e-3b74f79cde29","name":"4596f5ba-a874-4562-a92e-3b74f79cde29","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"d8d55768-9e85-4b16-9890-c12292ff5e4b","name":"d8d55768-9e85-4b16-9890-c12292ff5e4b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"25ed0cbf-f657-412f-8773-c6a42b1295ec","name":"25ed0cbf-f657-412f-8773-c6a42b1295ec","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"ccd78a88-23eb-46b7-913a-bdbe5eeb0c31","name":"ccd78a88-23eb-46b7-913a-bdbe5eeb0c31","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"04bbe8e9-7085-4531-af41-30b14206b42f","name":"04bbe8e9-7085-4531-af41-30b14206b42f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"800109c1-1427-412e-8a08-af44635e28e8","name":"800109c1-1427-412e-8a08-af44635e28e8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"cb57947e-5f27-49c3-9e97-0792cd07280f","name":"cb57947e-5f27-49c3-9e97-0792cd07280f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"1bd6e8ea-d58c-4af9-9f97-000968325999","name":"1bd6e8ea-d58c-4af9-9f97-000968325999","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"491410a3-c26e-4360-95b7-a49cc05f17b3","name":"491410a3-c26e-4360-95b7-a49cc05f17b3","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"1206b21f-acf0-4bcf-b56c-71187d8229fa","name":"1206b21f-acf0-4bcf-b56c-71187d8229fa","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"c408371d-1c2d-4d7a-8f94-c33132c215bb","name":"c408371d-1c2d-4d7a-8f94-c33132c215bb","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"ff579451-6169-42f2-a45a-eda9dc359371","name":"ff579451-6169-42f2-a45a-eda9dc359371","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"4596f5ba-a874-4562-a92e-3b74f79cde29","name":"4596f5ba-a874-4562-a92e-3b74f79cde29","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"d8d55768-9e85-4b16-9890-c12292ff5e4b","name":"d8d55768-9e85-4b16-9890-c12292ff5e4b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"25ed0cbf-f657-412f-8773-c6a42b1295ec","name":"25ed0cbf-f657-412f-8773-c6a42b1295ec","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"ccd78a88-23eb-46b7-913a-bdbe5eeb0c31","name":"ccd78a88-23eb-46b7-913a-bdbe5eeb0c31","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -44,13 +44,7 @@
     "resourceType":"GMNineSliceData",
     "resourceVersion":"2.0",
     "right":0,
-    "tileMode":[
-      0,
-      0,
-      0,
-      0,
-      1,
-    ],
+    "tileMode":[0,0,0,0,1,],
     "top":0,
   },
   "origin":0,
@@ -62,7 +56,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GMSequence":"",
+    "$GMSequence":"v1",
     "%Name":"spr_infestedwatersewer",
     "autoRecord":true,
     "backdropHeight":768,
@@ -98,42 +92,18 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":-1,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"04bbe8e9-7085-4531-af41-30b14206b42f","path":"sprites/spr_infestedwatersewer/spr_infestedwatersewer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"4c188cbe-65e5-4096-be9c-134bfe79db06","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"800109c1-1427-412e-8a08-af44635e28e8","path":"sprites/spr_infestedwatersewer/spr_infestedwatersewer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"ad54e16f-d1e4-4f2e-b920-5eb0d121235a","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"cb57947e-5f27-49c3-9e97-0792cd07280f","path":"sprites/spr_infestedwatersewer/spr_infestedwatersewer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"d8a0f5d4-4dc4-4829-9849-7f2392b108c2","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1bd6e8ea-d58c-4af9-9f97-000968325999","path":"sprites/spr_infestedwatersewer/spr_infestedwatersewer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"1f0f04fa-6f2d-41e3-ac62-7700d2c3185e","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"491410a3-c26e-4360-95b7-a49cc05f17b3","path":"sprites/spr_infestedwatersewer/spr_infestedwatersewer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"5a44fec9-dc55-4ec5-94c6-7293025a2084","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1206b21f-acf0-4bcf-b56c-71187d8229fa","path":"sprites/spr_infestedwatersewer/spr_infestedwatersewer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"fd88510b-baba-49b0-8cf0-c174e7d3304f","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c408371d-1c2d-4d7a-8f94-c33132c215bb","path":"sprites/spr_infestedwatersewer/spr_infestedwatersewer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"df0acdac-ee0c-4277-baca-a04c106b162a","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ff579451-6169-42f2-a45a-eda9dc359371","path":"sprites/spr_infestedwatersewer/spr_infestedwatersewer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"3e111aff-3735-48a9-a7dd-e6df86062342","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4596f5ba-a874-4562-a92e-3b74f79cde29","path":"sprites/spr_infestedwatersewer/spr_infestedwatersewer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"b46c308d-761e-441d-9f86-33ce453e3d8f","IsCreationKey":false,"Key":8.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d8d55768-9e85-4b16-9890-c12292ff5e4b","path":"sprites/spr_infestedwatersewer/spr_infestedwatersewer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"f5ff4499-f879-4c95-b645-7f3732fbc657","IsCreationKey":false,"Key":9.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"25ed0cbf-f657-412f-8773-c6a42b1295ec","path":"sprites/spr_infestedwatersewer/spr_infestedwatersewer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"8880ee01-f55f-4dd7-b721-b0e855736ee4","IsCreationKey":false,"Key":10.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ccd78a88-23eb-46b7-913a-bdbe5eeb0c31","path":"sprites/spr_infestedwatersewer/spr_infestedwatersewer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"60f58a16-8442-4ac8-83c2-f09131a2af99","IsCreationKey":false,"Key":11.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"04bbe8e9-7085-4531-af41-30b14206b42f","path":"sprites/spr_infestedwatersewer/spr_infestedwatersewer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"4c188cbe-65e5-4096-be9c-134bfe79db06","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"800109c1-1427-412e-8a08-af44635e28e8","path":"sprites/spr_infestedwatersewer/spr_infestedwatersewer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"ad54e16f-d1e4-4f2e-b920-5eb0d121235a","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"cb57947e-5f27-49c3-9e97-0792cd07280f","path":"sprites/spr_infestedwatersewer/spr_infestedwatersewer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"d8a0f5d4-4dc4-4829-9849-7f2392b108c2","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"1bd6e8ea-d58c-4af9-9f97-000968325999","path":"sprites/spr_infestedwatersewer/spr_infestedwatersewer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"1f0f04fa-6f2d-41e3-ac62-7700d2c3185e","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"491410a3-c26e-4360-95b7-a49cc05f17b3","path":"sprites/spr_infestedwatersewer/spr_infestedwatersewer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"5a44fec9-dc55-4ec5-94c6-7293025a2084","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"1206b21f-acf0-4bcf-b56c-71187d8229fa","path":"sprites/spr_infestedwatersewer/spr_infestedwatersewer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"fd88510b-baba-49b0-8cf0-c174e7d3304f","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"c408371d-1c2d-4d7a-8f94-c33132c215bb","path":"sprites/spr_infestedwatersewer/spr_infestedwatersewer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"df0acdac-ee0c-4277-baca-a04c106b162a","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"ff579451-6169-42f2-a45a-eda9dc359371","path":"sprites/spr_infestedwatersewer/spr_infestedwatersewer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"3e111aff-3735-48a9-a7dd-e6df86062342","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"4596f5ba-a874-4562-a92e-3b74f79cde29","path":"sprites/spr_infestedwatersewer/spr_infestedwatersewer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"b46c308d-761e-441d-9f86-33ce453e3d8f","IsCreationKey":false,"Key":8.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"d8d55768-9e85-4b16-9890-c12292ff5e4b","path":"sprites/spr_infestedwatersewer/spr_infestedwatersewer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"f5ff4499-f879-4c95-b645-7f3732fbc657","IsCreationKey":false,"Key":9.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"25ed0cbf-f657-412f-8773-c6a42b1295ec","path":"sprites/spr_infestedwatersewer/spr_infestedwatersewer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"8880ee01-f55f-4dd7-b721-b0e855736ee4","IsCreationKey":false,"Key":10.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"ccd78a88-23eb-46b7-913a-bdbe5eeb0c31","path":"sprites/spr_infestedwatersewer/spr_infestedwatersewer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"60f58a16-8442-4ac8-83c2-f09131a2af99","IsCreationKey":false,"Key":11.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

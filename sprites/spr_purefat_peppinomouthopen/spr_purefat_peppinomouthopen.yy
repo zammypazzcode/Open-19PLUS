@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_purefat_peppinomouthopen",
   "bboxMode":0,
   "bbox_bottom":145,
@@ -12,10 +12,10 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"2feafd06-a249-4bbf-a43e-68e8ad511481","name":"2feafd06-a249-4bbf-a43e-68e8ad511481","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"8dcaa684-1c7b-41e2-8abc-3c052876d59c","name":"8dcaa684-1c7b-41e2-8abc-3c052876d59c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"9a1670b6-0ae3-4a84-85c8-d3e1600665e9","name":"9a1670b6-0ae3-4a84-85c8-d3e1600665e9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"8e10715f-2729-4564-bc25-7a617ead337b","name":"8e10715f-2729-4564-bc25-7a617ead337b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"2feafd06-a249-4bbf-a43e-68e8ad511481","name":"2feafd06-a249-4bbf-a43e-68e8ad511481","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"8dcaa684-1c7b-41e2-8abc-3c052876d59c","name":"8dcaa684-1c7b-41e2-8abc-3c052876d59c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"9a1670b6-0ae3-4a84-85c8-d3e1600665e9","name":"9a1670b6-0ae3-4a84-85c8-d3e1600665e9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"8e10715f-2729-4564-bc25-7a617ead337b","name":"8e10715f-2729-4564-bc25-7a617ead337b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -36,13 +36,7 @@
     "resourceType":"GMNineSliceData",
     "resourceVersion":"2.0",
     "right":0,
-    "tileMode":[
-      0,
-      0,
-      0,
-      0,
-      0,
-    ],
+    "tileMode":[0,0,0,0,0,],
     "top":0,
   },
   "origin":0,
@@ -54,7 +48,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GMSequence":"",
+    "$GMSequence":"v1",
     "%Name":"spr_purefat_peppinomouthopen",
     "autoRecord":true,
     "backdropHeight":768,
@@ -90,18 +84,10 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":-1,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2feafd06-a249-4bbf-a43e-68e8ad511481","path":"sprites/spr_purefat_peppinomouthopen/spr_purefat_peppinomouthopen.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"ad2d0786-99d9-4f88-96e1-27870fb5310f","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8dcaa684-1c7b-41e2-8abc-3c052876d59c","path":"sprites/spr_purefat_peppinomouthopen/spr_purefat_peppinomouthopen.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"dc31f36e-bc01-4dcc-a4bc-28ee0ec1de26","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9a1670b6-0ae3-4a84-85c8-d3e1600665e9","path":"sprites/spr_purefat_peppinomouthopen/spr_purefat_peppinomouthopen.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"e0701ee6-c96f-4fd8-b7af-abafcf4ce717","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8e10715f-2729-4564-bc25-7a617ead337b","path":"sprites/spr_purefat_peppinomouthopen/spr_purefat_peppinomouthopen.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"659e3d85-8adc-45d8-8cc2-b5553b9c2e91","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"2feafd06-a249-4bbf-a43e-68e8ad511481","path":"sprites/spr_purefat_peppinomouthopen/spr_purefat_peppinomouthopen.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"ad2d0786-99d9-4f88-96e1-27870fb5310f","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"8dcaa684-1c7b-41e2-8abc-3c052876d59c","path":"sprites/spr_purefat_peppinomouthopen/spr_purefat_peppinomouthopen.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"dc31f36e-bc01-4dcc-a4bc-28ee0ec1de26","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"9a1670b6-0ae3-4a84-85c8-d3e1600665e9","path":"sprites/spr_purefat_peppinomouthopen/spr_purefat_peppinomouthopen.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"e0701ee6-c96f-4fd8-b7af-abafcf4ce717","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"8e10715f-2729-4564-bc25-7a617ead337b","path":"sprites/spr_purefat_peppinomouthopen/spr_purefat_peppinomouthopen.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"659e3d85-8adc-45d8-8cc2-b5553b9c2e91","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
