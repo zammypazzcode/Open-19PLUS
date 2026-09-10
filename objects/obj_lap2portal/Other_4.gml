@@ -8,5 +8,5 @@ if (ini_read_real("Highscores", global.levelname, 0) == 0 && !ini_read_real("Gam
 
 save_close();
 
-if (global.laps > 0)
+if (global.laps > 1)
     instance_destroy();

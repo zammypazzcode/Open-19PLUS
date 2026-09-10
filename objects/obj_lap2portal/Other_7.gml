@@ -38,6 +38,8 @@ if (sprite_index == spr_pizzaportalend)
         
         targetRoom = rm;
         targetDoor = door;
+		
+
         
         if (!instance_exists(obj_fadeout))
             instance_create_depth(x, y, -9999, obj_fadeout);
@@ -62,5 +64,7 @@ if (sprite_index == spr_pizzaportalend)
                     ds_list_delete(global.saveroom, q);
             }
         }
+		
+		
     }
 }
