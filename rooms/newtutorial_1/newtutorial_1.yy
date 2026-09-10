@@ -26,6 +26,7 @@
     {"name":"inst_104980","path":"rooms/newtutorial_1/newtutorial_1.yy",},
     {"name":"inst_104981","path":"rooms/newtutorial_1/newtutorial_1.yy",},
     {"name":"inst_104982","path":"rooms/newtutorial_1/newtutorial_1.yy",},
+    {"name":"inst_64947451","path":"rooms/newtutorial_1/newtutorial_1.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -50,6 +51,7 @@
         {"$GMRInstance":"v4","%Name":"inst_104980","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_104980","objectId":{"name":"obj_solid","path":"objects/obj_solid/obj_solid.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":4.0,"x":96.0,"y":320.0,},
         {"$GMRInstance":"v4","%Name":"inst_104981","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_104981","objectId":{"name":"obj_tutorialinput","path":"objects/obj_tutorialinput/obj_tutorialinput.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":413.0,"y":252.0,},
         {"$GMRInstance":"v4","%Name":"inst_104982","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_104982","objectId":{"name":"obj_tutorialinput","path":"objects/obj_tutorialinput/obj_tutorialinput.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":786.0,"y":160.0,},
+        {"$GMRInstance":"v4","%Name":"inst_64947451","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_64947451","objectId":{"name":"obj_hallway","path":"objects/obj_hallway/obj_hallway.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":8.0,"scaleY":1.0,"x":96.0,"y":-224.0,},
       ],"layers":[],"name":"Instances_1","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":true,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_409BC1B0","animationSpeed":0.0,"colour":4294967295,"frozen":false,"headPosition":7.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_409BC1B0","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_tutorialbuffpep","path":"sprites/spr_tutorialbuffpep/spr_tutorialbuffpep.yy",},"x":832.0,"y":210.0,},

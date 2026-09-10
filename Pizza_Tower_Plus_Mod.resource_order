@@ -2083,6 +2083,7 @@
     {"name":"spr_pizzadebrisescape","order":35,"path":"sprites/spr_pizzadebrisescape/spr_pizzadebrisescape.yy",},
     {"name":"spr_pizzaface_dead","order":1,"path":"sprites/spr_pizzaface_dead/spr_pizzaface_dead.yy",},
     {"name":"spr_pizzaface_sample","order":180,"path":"sprites/spr_pizzaface_sample/spr_pizzaface_sample.yy",},
+    {"name":"spr_pizzafacenew","order":2,"path":"sprites/spr_pizzafacenew/spr_pizzafacenew.yy",},
     {"name":"spr_pizzagoblin_dead","order":823,"path":"sprites/spr_pizzagoblin_dead/spr_pizzagoblin_dead.yy",},
     {"name":"spr_pizzagoblin_fall","order":824,"path":"sprites/spr_pizzagoblin_fall/spr_pizzagoblin_fall.yy",},
     {"name":"spr_pizzagoblin_flying","order":825,"path":"sprites/spr_pizzagoblin_flying/spr_pizzagoblin_flying.yy",},

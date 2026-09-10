@@ -1,8 +1,6 @@
 image_speed = 0.35;
 depth = -5;
 image_alpha = 0;
-errors = "ERROR!: Can't find sprite ref 483";
-trailerror = false;
 minspeed = 2;
 maxspeed = 18;
 defaultspeed = 6;

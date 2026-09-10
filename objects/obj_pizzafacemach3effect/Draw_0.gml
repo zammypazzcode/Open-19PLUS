@@ -7,4 +7,4 @@ var _samplew = _samplex2 - _samplex1;
 var _sampleh = _sampley2 - _sampley1;
 var _sampleox = sprite_get_xoffset(sprite_index) - _texpos[4];
 var _sampleoy = sprite_get_yoffset(sprite_index) - _texpos[5];
-draw_sprite_part_ext(spr_pizzaface_sample, 0, _samplex1, _sampley1, _samplew, _sampleh, x - _sampleox, y - _sampleoy, 1, 1, image_blend, image_alpha);
+draw_sprite_ext(spr_pizzaface_sample, 0, x - _sampleox, y - _sampleoy, 1, 1, image_angle, image_blend, image_alpha);

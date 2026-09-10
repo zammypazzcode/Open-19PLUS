@@ -71,12 +71,6 @@ else
                 image_xscale = other.image_xscale;
                 sprite_index = other.sprite_index;
             }
-            
-            if (!trailerror)
-            {
-                errors += "\nERROR!: Can't find object ref 263";
-                trailerror = true;
-            }
         }
         
         if (toomuchalarm > 0)

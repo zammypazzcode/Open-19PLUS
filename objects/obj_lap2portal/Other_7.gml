@@ -38,11 +38,13 @@ if (sprite_index == spr_pizzaportalend)
         
         targetRoom = rm;
         targetDoor = door;
-		
-
         
         if (!instance_exists(obj_fadeout))
             instance_create_depth(x, y, -9999, obj_fadeout);
+			
+		if (global.laps >= 1) {
+			instance_create_depth( obj_player.x, obj_player.y, obj_player.depth, obj_pizzaface )
+		}
         
         for (var i = 0; i < ds_list_size(global.escaperoom); i++)
         {
@@ -64,7 +66,5 @@ if (sprite_index == spr_pizzaportalend)
                     ds_list_delete(global.saveroom, q);
             }
         }
-		
-		
     }
 }

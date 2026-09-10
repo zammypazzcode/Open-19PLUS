@@ -37,12 +37,12 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_pizzaface",
-    "path":"sprites/spr_pizzaface/spr_pizzaface.yy",
+    "name":"spr_pizzafacenew",
+    "path":"sprites/spr_pizzafacenew/spr_pizzafacenew.yy",
   },
   "spriteMaskId":{
-    "name":"spr_pizzaface",
-    "path":"sprites/spr_pizzaface/spr_pizzaface.yy",
+    "name":"spr_player_mask",
+    "path":"sprites/spr_player_mask/spr_player_mask.yy",
   },
   "visible":true,
 }
